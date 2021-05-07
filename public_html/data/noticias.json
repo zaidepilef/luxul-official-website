@@ -1,0 +1,742 @@
+{
+    "proyecto": {
+        "proyecto_id": "",
+        "tipo_tramite": 1,
+        "latitud": "-42.755558",
+        "longitud": "-72.834735",
+        "nombre": "Proyecto de pruebas completo",
+        "cod_comuna": 10401,
+        "total_terreno": "30000000",
+        "superficie_util": "1000000",
+        "superficie_edificada": "150000",
+        "superficie_util_edificada_subterranea": "250000",
+        "superficie_util_edificada_sobre_terreno": "750000",
+        "superficie_comun_edificada_subterranea": "0",
+        "superficie_comun_edificada_sobre_terreno": "150000",
+        "rol_fusion": 1,
+        "proyecto_padre_id": "",
+        "tipo_crecimiento": 2,
+        "tipo_creador": "PERSONA_NATURAL",
+        "rut_creador": "10403513",
+        "rut_pertenece": "10403513",
+        "descripcion": "Proyecto de pruebas completo",
+        "colinda_camino_publico": 1,
+        "colinda_red_vial_basica": 1,
+        "proposito": "0",
+        "rol": [
+            {
+                "numero_rol": "00202-179",
+                "direcciones": [
+                    {
+                        "direccion_principal": 1,
+                        "area_id": 2,
+                        "arteria_id": 6,
+                        "cod_comuna": 10401,
+                        "direccion": "Chana",
+                        "numero": "lote 6 a 1 c",
+                        "via_id": 5,
+                        "via_nombre": "Local"
+                    },
+                    {
+                        "direccion_principal": 0,
+                        "area_id": 2,
+                        "arteria_id": 5,
+                        "cod_comuna": 10401,
+                        "direccion": "chana ",
+                        "numero": "lote 16 a4",
+                        "via_id": 5,
+                        "via_nombre": "Local"
+                    },
+                    {
+                        "direccion_principal": 0,
+                        "area_id": 2,
+                        "arteria_id": 5,
+                        "cod_comuna": 10401,
+                        "direccion": "Calle interior norte",
+                        "numero": "sin numero",
+                        "via_id": 5,
+                        "via_nombre": "Local"
+                    },
+                    {
+                        "direccion_principal": 0,
+                        "cod_comuna": "10401",
+                        "direccion": "chana",
+                        "numero": "sin numero",
+                        "area_id": 1,
+                        "arteria_id": 2,
+                        "via_id": 5,
+                        "via_nombre": "Local"
+                    }
+                ]
+            }
+        ],
+        "destino": [
+            {
+                "dproyecto_id": "3",
+                "data": {
+                    "inc_servicios_movimiento": 1,
+                    "num_habitaciones": 10
+                }
+            },
+            {
+                "dproyecto_id": "4",
+                "data": {
+                    "inc_servicios_movimiento": 1,
+                    "num_habitaciones": 10
+                }
+            },
+            {
+                "dproyecto_id": "5",
+                "data": {
+                    "inc_servicios_movimiento": 1,
+                    "num_habitaciones": 10
+                }
+            },
+            {
+                "dproyecto_id": "6",
+                "data": {
+                    "inc_servicios_movimiento": 1,
+                    "num_habitaciones": 15
+                }
+            },
+            {
+                "dproyecto_id": "1",
+                "data": {
+                    "inc_servicios_movimiento": 1,
+                    "num_viviendas": 100
+                }
+            },
+            {
+                "dproyecto_id": "2",
+                "data": {
+                    "inc_servicios_movimiento": 1,
+                    "num_viviendas": 100
+                }
+            },
+            {
+                "dproyecto_id": "7",
+                "data": {
+                    "inc_servicios_movimiento": 1,
+                    "superficie_edificada": 1500
+                }
+            },
+            {
+                "dproyecto_id": "8",
+                "data": {
+                    "inc_servicios_movimiento": 1,
+                    "superficie_edificada": 1500
+                }
+            },
+            {
+                "dproyecto_id": "9",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "13",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "escala": "Básico",
+                    "cant_personas": "1",
+                    "superficie_edificada": "150"
+                }
+            },
+            {
+                "dproyecto_id": "14",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "escala": "Básico",
+                    "cant_personas": "12",
+                    "superficie_edificada": "150"
+                }
+            },
+            {
+                "dproyecto_id": "15",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "escala": "Básico",
+                    "cant_personas": "2",
+                    "superficie_edificada": "150"
+                }
+            },
+            {
+                "dproyecto_id": "16",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "escala": "Básico",
+                    "cant_personas": "1",
+                    "superficie_edificada": "150"
+                }
+            },
+            {
+                "dproyecto_id": "17",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "escala": "Básico",
+                    "cant_personas": "15",
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "18",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "cant_dispensadores": "6"
+                }
+            },
+            {
+                "dproyecto_id": "19",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "20",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "escala": "Básico",
+                    "cant_personas": "1",
+                    "superficie_edificada": "150"
+                }
+            },
+            {
+                "dproyecto_id": "21",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "125",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "150"
+                }
+            },
+            {
+                "dproyecto_id": "22",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "23",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "2000"
+                }
+            },
+            {
+                "dproyecto_id": "24",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "2000"
+                }
+            },
+            {
+                "dproyecto_id": "25",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "26",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "300"
+                }
+            },
+            {
+                "dproyecto_id": "28",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "num_asientos": "30"
+                }
+            },
+            {
+                "dproyecto_id": "29",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "num_asientos": "30"
+                }
+            },
+            {
+                "dproyecto_id": "31",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "32",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "3000"
+                }
+            },
+            {
+                "dproyecto_id": "33",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "34",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "300"
+                }
+            },
+            {
+                "dproyecto_id": "35",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "total_terreno": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "36",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "total_terreno": "3000"
+                }
+            },
+            {
+                "dproyecto_id": "38",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "num_estudiantes": "150"
+                }
+            },
+            {
+                "dproyecto_id": "39",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "num_estudiantes": "300"
+                }
+            },
+            {
+                "dproyecto_id": "40",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "num_estudiantes": "15"
+                }
+            },
+            {
+                "dproyecto_id": "41",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "total_terreno": "3000"
+                }
+            },
+            {
+                "dproyecto_id": "42",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "total_terreno": "200"
+                }
+            },
+            {
+                "dproyecto_id": "43",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "total_terreno": "5000"
+                }
+            },
+            {
+                "dproyecto_id": "44",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "45",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "66",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "2000"
+                }
+            },
+            {
+                "dproyecto_id": "71",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "num_darsenas": "20"
+                }
+            },
+            {
+                "dproyecto_id": "67",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "68",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "69",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "1500"
+                }
+            },
+            {
+                "dproyecto_id": "70",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "num_lineas_revision": "6"
+                }
+            },
+            {
+                "dproyecto_id": "71",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "num_darsenas": "3"
+                }
+            },
+            {
+                "dproyecto_id": "72",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "servicio": [
+                        {
+                            "vehiculo_equivalente_id": 3,
+                            "vehiculo_nombre": "Taxibus (aprox. 8 m)",
+                            "nombre": "voy y vuelvo altiro",
+                            "periodos_entrada": [
+                                {
+                                    "periodo_id": 1,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 2,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 3,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 4,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 5,
+                                    "cant": "12"
+                                }
+                            ],
+                            "periodos_salida": [
+                                {
+                                    "periodo_id": 1,
+                                    "cant": "-"
+                                },
+                                {
+                                    "periodo_id": 2,
+                                    "cant": "-"
+                                },
+                                {
+                                    "periodo_id": 3,
+                                    "cant": "-"
+                                },
+                                {
+                                    "periodo_id": 4,
+                                    "cant": "-"
+                                },
+                                {
+                                    "periodo_id": 5,
+                                    "cant": "-"
+                                }
+                            ]
+                        },
+                        {
+                            "vehiculo_equivalente_id": 4,
+                            "vehiculo_nombre": "Bus (aprox. 12 m)",
+                            "nombre": "altirante mi comandante",
+                            "periodos_entrada": [
+                                {
+                                    "periodo_id": 1,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 2,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 3,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 4,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 5,
+                                    "cant": "1"
+                                }
+                            ],
+                            "periodos_salida": [
+                                {
+                                    "periodo_id": 1,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 2,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 3,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 4,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 5,
+                                    "cant": "12"
+                                }
+                            ]
+                        }
+                    ],
+                    "total_servicios": 2
+                }
+            },
+            {
+                "dproyecto_id": "73",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "servicio": [
+                        {
+                            "vehiculo_equivalente_id": 1,
+                            "nombre": "No Name",
+                            "periodos_entrada": [
+                                {
+                                    "periodo_id": 1,
+                                    "cant": "5"
+                                },
+                                {
+                                    "periodo_id": 2,
+                                    "cant": "0"
+                                },
+                                {
+                                    "periodo_id": 3,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 4,
+                                    "cant": "0"
+                                },
+                                {
+                                    "periodo_id": 5,
+                                    "cant": "0"
+                                }
+                            ],
+                            "periodos_salida": [
+                                {
+                                    "periodo_id": 1,
+                                    "cant": "25"
+                                },
+                                {
+                                    "periodo_id": 2,
+                                    "cant": "0"
+                                },
+                                {
+                                    "periodo_id": 3,
+                                    "cant": "0"
+                                },
+                                {
+                                    "periodo_id": 4,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 5,
+                                    "cant": "1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "dproyecto_id": "74",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "servicio": [
+                        {
+                            "vehiculo_equivalente_id": 1,
+                            "nombre": "No Name",
+                            "periodos_entrada": [
+                                {
+                                    "periodo_id": 1,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 2,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 3,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 4,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 5,
+                                    "cant": "1"
+                                }
+                            ],
+                            "periodos_salida": [
+                                {
+                                    "periodo_id": 1,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 2,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 3,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 4,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 5,
+                                    "cant": "1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "dproyecto_id": "75",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "servicio": [
+                        {
+                            "vehiculo_equivalente_id": 1,
+                            "nombre": "No Name",
+                            "periodos_entrada": [
+                                {
+                                    "periodo_id": 1,
+                                    "cant": "9"
+                                },
+                                {
+                                    "periodo_id": 2,
+                                    "cant": "1"
+                                },
+                                {
+                                    "periodo_id": 3,
+                                    "cant": "12"
+                                },
+                                {
+                                    "periodo_id": 4,
+                                    "cant": "3"
+                                },
+                                {
+                                    "periodo_id": 5,
+                                    "cant": "3"
+                                }
+                            ],
+                            "periodos_salida": [
+                                {
+                                    "periodo_id": 1,
+                                    "cant": "15"
+                                },
+                                {
+                                    "periodo_id": 2,
+                                    "cant": "5"
+                                },
+                                {
+                                    "periodo_id": 3,
+                                    "cant": "3"
+                                },
+                                {
+                                    "periodo_id": 4,
+                                    "cant": "3"
+                                },
+                                {
+                                    "periodo_id": 5,
+                                    "cant": "3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "dproyecto_id": "76",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "total_terreno": "30000"
+                }
+            },
+            {
+                "dproyecto_id": "77",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "total_terreno": "300000"
+                }
+            },
+            {
+                "dproyecto_id": "86",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "500"
+                }
+            },
+            {
+                "dproyecto_id": "87",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "superficie_edificada": "500"
+                }
+            },
+            {
+                "dproyecto_id": "37",
+                "data": {
+                    "inc_servicios_movimiento": 0,
+                    "num_estudiantes": "50"
+                }
+            }
+        ],
+        "representante": [
+            {
+                "rut": "10403513",
+                "dv_rut": 2,
+                "nombres": "Sergio",
+                "ap_paterno": "Donoso",
+                "ap_materno": "Rauld",
+                "direccion": "Los Mañios",
+                "direccion_numero": "30",
+                "cod_comuna": 10101,
+                "email": "sergio.donoso@gmail.com",
+                "telefono": "+56954094214",
+                "tipo_participante_empresa_id": "1"
+            }
+        ]
+    }
+}
